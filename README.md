@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/dr-fet91/laravel-livewire-datatables/blob/main/1.jpg?raw=true" width="400" alt="Laravel Logo"></a></p>
 
 
 
@@ -315,7 +315,7 @@ Now it's time to call the component:
 </div>
 ```
 ## Eventually
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/dr-fet91/laravel-livewire-datatables/main/2.jpg" width="400" alt="Laravel Logo"></a></p>
 
 There is only one problem!<br>
 How can we use the sortBy function for columns that called through relations such as Price?
